@@ -43,7 +43,13 @@ static float bitrateSteps[] = {
     90,
     100,
     120,
-    150
+    150,
+    175,
+    200,
+    225,
+    250,
+    275,
+    300
 };
 
 @interface GeneralPrefsPaneVC () <MASPreferencesViewController>

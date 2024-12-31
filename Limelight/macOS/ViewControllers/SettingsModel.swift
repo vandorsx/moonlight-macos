@@ -180,7 +180,13 @@ class SettingsModel: ObservableObject {
         90,
         100,
         120,
-        150
+        150,
+        175,
+        200,
+        225,
+        250,
+        275,
+        300
     ]
     static var videoCodecs: [String] = ["H.264", "H.265"]
     static var pacingOptions: [String] = ["Lowest Latency", "Smoothest Video"]
